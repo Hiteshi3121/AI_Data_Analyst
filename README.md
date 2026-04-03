@@ -3,6 +3,7 @@
 A local, AI-powered application that lets you query your database using plain English. No cloud API required — everything runs on your machine using **Ollama** and **local LLMs**.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/519c3447-7fb9-459b-bfc5-3c1bd571fdd3" />
 
 ## 📌 Table of Contents
 
